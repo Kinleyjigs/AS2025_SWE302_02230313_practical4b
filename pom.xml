@@ -23,10 +23,11 @@
   <java.version>17</java.version>
 
   <!-- SonarCloud Configuration -->
-  <sonar.organization>darryl1975</sonar.organization>
+  <sonar.organization>kinleyjigs</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.projectKey>Kinleyjigs_AS2025_SWE302_02230313_practical4b</sonar.projectKey>
   <sonar.coverage.jacoco.xmlReportPaths>
-   ../app-it/target/site/jacoco-aggregate/jacoco.xml
+   target/site/jacoco/jacoco.xml
   </sonar.coverage.jacoco.xmlReportPaths>
  </properties>
 
